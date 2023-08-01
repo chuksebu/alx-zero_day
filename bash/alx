@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School"
+=======
+<<<<<<< Updated upstream
+echo "ALX School"
+=======
+echo "ALX School is so cool!"
+>>>>>>> Stashed changes
+>>>>>>> 7d0a0dd05abe77a18b57cbfa50d1fa1473a4333d
